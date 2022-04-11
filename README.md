@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @knoelljack
 - 👀 I’m interested in emerging technologies
 - 🌱 Full Stack in Python, MERN, and Java
-- 💞️ I’m looking to collaborate on cryptocurrency/Defi projects
 - 📫 How to reach me ...email: knoelljack@gmail.com
 
 <!---
